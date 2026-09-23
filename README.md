@@ -5,6 +5,17 @@
 
 Finalca is a premium, dark-first AI CFO workspace for understanding net worth, investments, goals, and next steps — without presenting itself as a licensed financial adviser.
 
+## 🔐 Demo access
+
+Use these preset local credentials to unlock the development app:
+
+```text
+Username: admin
+Password: finalca123
+```
+
+> ⚠️ These credentials are for the local demo only. Replace the authentication flow before using Finalca in production.
+
 ## 🚀 Product architecture
 
 ### 🧭 Core modules
