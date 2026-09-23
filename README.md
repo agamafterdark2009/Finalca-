@@ -1,5 +1,7 @@
 # Finalca
 
+> Created by Agam Mehar
+
 Finalca is a premium, dark-first AI CFO workspace for understanding net worth, investments, goals, and next steps without presenting itself as a licensed financial adviser.
 
 ## Product architecture
