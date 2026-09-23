@@ -159,8 +159,12 @@ git push origin main
 ## 🔑 Enable CFO chat
 
 1. Copy `.env.example` to `.env`.
-2. Set `GEMINI_API_KEY` to your Gemini API key.
+2. Replace `enter_your_gemini_key_here` with your Gemini API key.
 3. Restart `npm run dev`.
+
+The repository intentionally publishes only the safe placeholder in
+[`.env.example`](./.env.example). The real `.env` file is ignored by Git and must
+remain local.
 
 The key is read only by the Vite server middleware and is never bundled into the browser. Do not commit `.env`.
 
