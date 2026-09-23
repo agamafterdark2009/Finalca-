@@ -62,6 +62,7 @@
 .creator-credit { display: flex; justify-content: center; align-items: center; gap: 7px; margin: 18px 0 4px; color: #777ca8; font: 10px 'DM Mono'; letter-spacing: .3px; }
 .creator-credit strong { color: #d9dcff; font-weight: 500; }
 .creator-credit span { padding-left: 7px; border-left: 1px solid rgba(121,242,255,.2); color: #79f2ff; }
+.creator-credit em { color: #a88bff; font-style: normal; }
 
 /* Premium visual system */
 :root {
